@@ -1,1 +1,1 @@
-document.write('hello world testing');
+document.write('<i>hello world testing</i>');
